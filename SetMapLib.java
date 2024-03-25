@@ -2,18 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
 
-/**
- * Professor: James Mwangi PhD
- * 
- * 
- * Student Name: Sansita Pattnaik
- * Student ID: 041094310
- * Program: Computing Engineering Technology 
- * Course: Data structures 
- * Lab Section: 302
- * lab6
- * 
- */
+
 /**
  * The SetMapLib class contains various methods to perform operations on TreeMap
  * and TreeSet data structures.
