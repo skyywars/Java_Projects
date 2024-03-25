@@ -1,18 +1,7 @@
 // TestSetMap.java
 import java.util.Scanner;
 
-/**
- * Professor: James Mwangi PhD
- * 
- * 
- * Student Name: Sansita Pattnaik
- * Student ID: 041094310
- * Program: Computing Engineering Technology 
- * Course: Data structures 
- * Lab Section: 302
- * lab6
- * 
- */
+
 /**
  * The TestSetMap class provides a simple command-line interface to interact with
  * the SetMapLib class functionalities.
